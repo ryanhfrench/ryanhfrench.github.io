@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan H French"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/prof_RD_18-11-24.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring Data Scientist."
   location         : "Philadelphia, PA"
   email            :
@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: Pages
+    values:
+      layout: single
+      author_profile: true
