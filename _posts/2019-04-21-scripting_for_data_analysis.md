@@ -1,18 +1,22 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Analyzing Key Indicators of Positive Reviews for iOS Apps"
+date: 2019-04-21
+tags: [data science, machine learning, apple, iOS, random forest]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/perceptron/abstract-curves-led-1944.jpg"
+excerpt: "My final project for Scripting for Data Analysis"
 mathjax: "true"
 ---
 
-# H1 Heading
+## Project Overview
+Recently the first company to reach 1 trillion dollars in valuation, Apple has
+undoubtedly cemented itself as the tech giant of our time. With one of the most
+profitable (and closely regulated) app stores in the world, I was interested to
+see whether or not I could build a predictive model capable of classifying
+highly rated apps (above a 4/5).
 
-## H2 Heading
-
-### H3 Heading
+## Data Source
+[link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)?
 
 Here's some basic text.
 
