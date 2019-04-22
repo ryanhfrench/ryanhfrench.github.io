@@ -5,7 +5,6 @@ header:
   image: "/images/philly.jpg"
 ---
 
-## Welcome to my Data Science Portfolio
 Welcome! The purpose of this website is to host my Data Science related projects for your viewing pleasure, all of which are readily available on the 'Projects' page.
 
 On the other hand, if you would like to find out a little more about yours truly, simply head on over to the 'About' page.
