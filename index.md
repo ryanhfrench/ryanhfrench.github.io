@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: page
 author_profile: true
-#permalink: /home/
 header:
   image: "/images/philly.jpg"
 ---
