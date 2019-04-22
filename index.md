@@ -5,10 +5,9 @@ header:
   image: "/images/philly.jpg"
 ---
 
-## Digitizing the Gaming Industry (Information Visualization)
-A life long video game fan, I found that video game sales made for a great
-dataset to fully explore my data visualization skills. Although the many
-individual plots generated can be viewed in the R code, the full aesthetic
-effect is best captured via the poster which was made through Adobe Illustrator.
+# Welcome to my Data Science Portfolio
+Welcome! The purpose of this website is to host my Data Science related projects for your viewing pleasure, all of which are readily available on the 'Projects' page.
 
-[Project Resources](https://github.com/ryanhfrench/portfolio/tree/master/digitizing_the_gaming_industry)
+On the other hand, if you would like to find out a little more about yours truly, simply head on over to the 'About' page.
+
+Finally, feel free to reach out with me via my e-mail or through LinkedIn to discuss Data Science, coding, technology, or anything in-between!
