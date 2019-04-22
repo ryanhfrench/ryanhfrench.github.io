@@ -7,60 +7,35 @@ header:
   image: "/images/cover.jpg"
 ---
 
-## Project Overview
+## Analyzing Key Indicators ofPositive Reviews for iOS Apps
 Recently the first company to reach 1 trillion dollars in valuation, Apple has
 undoubtedly cemented itself as the tech giant of our time. With one of the most
 profitable (and closely regulated) app stores in the world, I was interested to
 see whether or not I could build a predictive model capable of classifying
 highly rated apps (above a 4/5).
 
-## Data Source
-[link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)?
+### Project Resources:
+[link](https://github.com/ryanhfrench/portfolio/tree/master/scripting_for_data_analysis)?
 
-Here's some basic text.
+### Inside the Project:
+1. Source Code (Jupyter Notebook)
+2. Data Set
+3. Powerpoint Presentation
 
-And here's some *italics*
+## Digitizing the Gaming Industry
+Recently the first company to reach 1 trillion dollars in valuation, Apple has
+undoubtedly cemented itself as the tech giant of our time. With one of the most
+profitable (and closely regulated) app stores in the world, I was interested to
+see whether or not I could build a predictive model capable of classifying
+highly rated apps (above a 4/5).
 
-Here's some **bold** text.
+### Project Resources:
+[link](https://github.com/ryanhfrench/portfolio/tree/master/information_visualization)?
 
-What about a [link](https://github.com/dataoptimal)?
+### Inside the Project:
+1. Source Code (R)
+2. Data Set
+3. Poster PDF
+4. Poster Illustrator File
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+<img src="{{ site.url }}{{ site.baseurl }}/images/poster.png" alt="linearly separable data">
