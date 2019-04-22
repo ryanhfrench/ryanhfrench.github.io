@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 header:
-  image: "/images/cover.jpg"
+  image: "/images/wave.jpg"
 ---
 
 ## Digitizing the Gaming Industry (Information Visualization)
