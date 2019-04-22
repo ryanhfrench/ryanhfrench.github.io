@@ -1,11 +1,11 @@
 ---
 layout: archive
+title: "Welcome to My Data Science Portfolio"
+permalink: /
 author_profile: true
 header:
   image: "/images/philly.jpg"
 ---
-
-# Data Science Portfolio
 
 Welcome! The purpose of this website is to host my Data Science related projects for your viewing pleasure, all of which are readily available on the 'Projects' page.
 
