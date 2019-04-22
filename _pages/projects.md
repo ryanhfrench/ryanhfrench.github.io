@@ -1,15 +1,8 @@
 ---
-layout: posts
-permalink: /projects/
-title: "Projects"
-author_profile: true
+title: "About"
+permalink: /about/
 header:
-  image: "/images/cover.jpg
-title: "Analyzing Key Indicators of Positive Reviews for iOS Apps"
-date: 2019-04-21
-tags: [data science, machine learning, apple, iOS, random forest]
-excerpt: "My final project for Scripting for Data Analysis"
-mathjax: "true"
+  image: "/images/cover.jpg"
 ---
 
 ## Project Overview
