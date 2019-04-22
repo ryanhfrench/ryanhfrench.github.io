@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan H French - Data Science Portfolio"
+title                    : "Data Science Portfolio"
 title_separator          : "-"
 name                     : "Ryan H French"
 description              : "Data Science Portfolio"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Ryan H French"
   avatar           : "/images/headshot_RD.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Scientist"
   location         : "Philadelphia, PA"
   email            :
   uri              :
