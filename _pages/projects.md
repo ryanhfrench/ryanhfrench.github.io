@@ -16,7 +16,8 @@ relevant audio features, create a SQL database and import said data into it,
 and finally, provide a Tableau dashboard with which to conduct analysis.
 
 [Dashboard Link](https://public.tableau.com/profile/ryan.french4207#!/vizhome/spotify_dashboard/spotify_analytics_dashboard_year)
-\n[Project Resources](https://github.com/ryanhfrench/portfolio/tree/master/spotify_analytics_dashboard)
+
+[Project Resources](https://github.com/ryanhfrench/portfolio/tree/master/spotify_analytics_dashboard)
 
 ## Digitizing the Gaming Industry (Information Visualization)
 A life long video game fan, I found that video game sales made for a great
