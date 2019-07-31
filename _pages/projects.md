@@ -7,6 +7,18 @@ header:
   image: "/images/wave.jpg"
 ---
 
+## Spotify Analytics Dashboard
+Music is one of my favorite indulgences and I usually spend hours a day on
+Spotify listening to my favorite playlists. As such, I was interested in
+utilizing the data available from Spotify to create an end-to-end system which
+would read in the daily data from the Spotify Top 200 songs, query their
+relevant audio features, create a SQL database and import said data into it,
+and finally, provide a Tableau dashboard with which to conduct analysis.
+
+[Dashboard Link](https://public.tableau.com/profile/ryan.french4207#!/vizhome/spotify_dashboard/spotify_analytics_dashboard_year)
+
+[Project Resources](https://github.com/ryanhfrench/portfolio/tree/master/spotify_analytics_dashboard)
+
 ## Digitizing the Gaming Industry (Information Visualization)
 A life long video game fan, I found that video game sales made for a great
 dataset to fully explore my data visualization skills. Although the many
