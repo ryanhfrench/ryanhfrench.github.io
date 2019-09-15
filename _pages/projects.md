@@ -23,7 +23,7 @@ Probably my most used app on a daily basis, my Spotify is almost always open whe
 As an avid gamer when I discovered the Video Game Sales dataset on Kaggle (https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) I was excited to see what different forms of visualizations I could create. In regards to the overall presentation, I wanted to embrace the culture of video games from a stylistic point of view and opted for a retro-themed color scheme and image style.
 
 ### Poster
-<img src="https://github.com/ryanhfrench/portfolio/tree/master/digitizing_the_gaming_industry">
+{% include image name="https://github.com/ryanhfrench/portfolio/tree/master/digitizing_the_gaming_industry" caption="Poster" %}
 
 ### [Project Link](https://github.com/ryanhfrench/portfolio/tree/master/digitizing_the_gaming_industry)
 
