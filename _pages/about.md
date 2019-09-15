@@ -5,6 +5,8 @@ header:
   image: "/images/avalon.jpg"
 ---
 
+[Resume](Ryan_French_Resume.pdf)
+
 From what you eat for breakfast, to the route you take to work, to your internet browsing history, data is everywhere around us. As such, the understanding and manipulation of data provides endless opportunities to reconcile inefficiencies, understand correlations, and improve the world around us.
 
 Having spent my undergraduate career studying Information Management & Technology at Syracuse University, I am familiar with the practice of manipulating information, or unfiltered data, in a variety of formats. However, my desire to further my learning and my love for coding lead me to enroll in Syracuse’s Fast Track program for Applied Data Science.
