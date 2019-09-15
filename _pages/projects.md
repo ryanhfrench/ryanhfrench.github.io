@@ -25,6 +25,8 @@ As an avid gamer when I discovered the Video Game Sales dataset on Kaggle (https
 ### Poster
 <img src="https://github.com/ryanhfrench/portfolio/tree/master/digitizing_the_gaming_industry">
 
+### [Project Link](https://github.com/ryanhfrench/portfolio/tree/master/digitizing_the_gaming_industry)
+
 ## Visualizing, Predicting, & Understanding Crime in Syracuse
 
 ### Summary
