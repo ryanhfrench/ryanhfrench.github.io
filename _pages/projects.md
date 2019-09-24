@@ -6,7 +6,7 @@ author_profile: true
 header:
   image: "/images/wave.jpg"
 ---
-## Spotify Top 200 Daily Tracks & Features Analysis ([Project Link])(https://github.com/ryanhfrench/portfolio/tree/master/spotify_analytics_dashboard)
+## Spotify Top 200 Daily Tracks & Features Analysis [(Project Link)](https://github.com/ryanhfrench/portfolio/tree/master/spotify_analytics_dashboard)
 
 Probably my most used app on a daily basis, my Spotify is almost always open whether it be me creating playlists to share with my friends, listening to a podcast on the way to class, or enjoying my Discover Weekly while I code. Due to its position as one of the largest streaming platforms in the world, I was interested to take a look at the daily updated Top 200 RSS Feed (which can be found at https://spotifycharts.com/regional/global/daily/) and see if I could create a database to house the data as well as a dashboard to effectively explore it.
 
